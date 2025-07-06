@@ -1,0 +1,5 @@
+# Ignore IDE settings and virtual environment
+.idea/
+.venv/
+__pycache__/
+*.pyc
