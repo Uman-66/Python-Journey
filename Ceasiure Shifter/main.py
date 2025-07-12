@@ -30,7 +30,7 @@ while condition:
 
     cipher(start_text=text, shift_number=shift, directions=direction)
 
-    again = input("Do you wana play again,, Yes or no")
+    again = input("Do you wanna play again,, Yes or no")
     if again == "no":
         condition = False
 
