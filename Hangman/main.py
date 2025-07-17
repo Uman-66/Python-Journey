@@ -1,6 +1,6 @@
 from draw import stages
 import random
-word_list = ["ardvark" ,"baboon","camel"]
+word_list = ["aardvark" ,"baboon","camel"]
 lives=5
 random_word=random.choice(word_list)
 
