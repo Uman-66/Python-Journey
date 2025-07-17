@@ -1,7 +1,7 @@
 # 🎯 Day 8 – Hangman Game (Python)
 
 Welcome to Day 8 of my Python learning journey!  
-This is a classic **Hangman game** implementation in Python, where the player must guess letters in a hidden word before running out of lives. Each incorrect guess brings the player closer to the *ASCII-art doom*! 👻
+This is a classic **Hangman game** implementation in Python, where the player must guess letters in a hidden word before running out of lives. Each incorrect guess brings the player closer to the *ASCII-art doom*!
 
 ---
 
@@ -72,12 +72,9 @@ No external libraries needed. Just pure Python.
 
 ---
 
-## 🧚 About This Repo
+##  About This Repo
 
 This project is part of my public Python journey repo – documenting daily learning with clean, working examples.  
 Follow along or fork it to grow your own journey ✨
 
 ---
-
-**🧠 “It’s not just about the code… it’s about the climb.”**  
-— Ma Monster 🧚👹👺
