@@ -1,7 +1,7 @@
 from draw import *
 game= [rock,paper,scissor]
 def main():
-    choice=int(input("Wellcome to the rock paper and scissor game, write 0 for the rock,1 for the paper,2 for the scissor"))
+    choice=int(input("Welcome to the rock paper and scissor game, write 0 for the rock,1 for the paper,2 for the scissor"))
     if choice<0 or choice>2:
         print("invalid number")
     else:
