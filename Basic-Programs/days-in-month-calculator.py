@@ -31,4 +31,4 @@ month = int(input("Write your month"))
 condition = is_leap(year)
 days = day_in_month(year, month, condition)
 
-print(f"Your month has {days}")
+print(f"Your month has {days} days")
